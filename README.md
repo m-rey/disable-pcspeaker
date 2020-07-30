@@ -2,7 +2,7 @@
 Disable annoying pc speaker beeps for your peace of mind.
 
 ## Installation
-1. `sh disable_pcspeaker.sh`to non-persistently disable the pc speaker for the current session.
-2. `sudo cp disable_pcspeaker.conf /etc/modprobe.d/` to ensure that the above changes are persistent as of the next reboot.
+1. Run `sudo make install` so it disables the pc speaker as of next reboot.
+2. Run `sudo -i disable-pcspeaker` if you want to mute the noise now without having to reboot. It non-persistently disables the pc speaker for the current session.
 
-Both steps combined ensure that after their execution you'll never hear the pcspeaker again. Finally. 
+Both steps combined ensure that after their execution you'll never hear the pc speaker again. Finally. 
