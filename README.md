@@ -1,2 +1,2 @@
-# blacklist-pcspeaker
-Removes annoying pc speaker beeps for your peace of mind
+# disable-pcspeaker
+Disable annoying pc speaker beeps for your peace of mind.
